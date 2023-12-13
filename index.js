@@ -1,5 +1,5 @@
 const getMessage = () => {
-    return "Change message from dev again"
+    return "Hola mundo! Esta una prueba unitaria"
 }
 
 module.exports = getMessage
